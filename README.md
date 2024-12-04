@@ -44,6 +44,6 @@ Special thanks to:
 - [Tailwind CSS](https://tailwindcss.com/)  
 
 ## 💌 Connect with Me  
-- **Portfolio**: [Personal Portfolio](https://shivanshkrishna.github.io/Personal-Portfolio)  
+- **Portfolio**: [Personal Portfolio](https://shivanshkrishna.netlify.app)  
 - **LinkedIn**: [Shivansh Krishna](https://www.linkedin.com/in/shivanshkrishna)  
 - **GitHub**: [shivanshkrishna](https://github.com/shivanshkrishna)  
